@@ -1,0 +1,4 @@
+ticket_id,customer_email,raw_message
+TKT-001,alice@email.com,"Hey, my order #10492 still hasn't shipped. It's been two weeks and I haven't received a tracking link. Can someone please check on this?"
+TKT-002,bob@email.com,"UNBELIEVABLE! Your app crashed right while I was checking out and charged my card twice!! I want an immediate refund right now or I am calling my bank!!"
+TKT-003,charlie@email.com,"Hi there, I am looking at your enterprise pricing plans. Do you offer a discount for yearly billing instead of monthly subscription cycles? Thanks!"
